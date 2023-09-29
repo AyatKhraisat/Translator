@@ -1,6 +1,6 @@
 # Translator
 
-This Sample converts spoken Audio from a selected language, speach from another language, it uses the following AI services from Azure:
+This Sample converts input Audio from a selected language to speech in another language, it uses the following AI services from Azure:
 
 1.[Azure Speach](https://learn.microsoft.com/en-us/python/api/azure-cognitiveservices-speech/?view=azure-python)
 
