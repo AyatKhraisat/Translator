@@ -3,7 +3,6 @@
 This Sample convert spoken Audio from selected language, speach from other language, it uses the following AI servcies from Azure:
 
 1.[Azure Speach](https://learn.microsoft.com/en-us/python/api/azure-cognitiveservices-speech/?view=azure-python)
-
 2. [Azure Translator](https://learn.microsoft.com/en-us/azure/ai-services/translator/)
 ```mermaid
 graph LR
